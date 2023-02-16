@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "heading": "Javascript",
+    "date": "21/10/2022",
+    "content": "JavaScript is a cross-platform, object-oriented scripting language used to make webpages interactive (e.g., having complex animations, clickable buttons, popup menus, etc.). There are also more advanced server side versions of JavaScript such as Node. "
+  },
+  {
+    "id": 2,
+    "heading": "Data structure",
+    "date": "22/10/2022",
+    "content": "A data structure is a group of data elements that provides the easiest way to store and perform different actions on the data of the computer. A data structure is a particular way of organizing data in a computer so that it can be used effectively."
+  },
+  {
+    "id": 3,
+    "heading": "Python",
+    "date": "23/10/2022",
+    "content": "Python is a dynamic, interpreted (bytecode-compiled) language. There are no type declarations of variables, parameters, functions, or methods in source code. This makes the code short and flexible, and you lose the compile-time type checking of the source code. "
+  }
+]
